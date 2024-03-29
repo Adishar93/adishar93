@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi! I am Aditya Sharma [he/him],
 
-<!--
-**Adishar93/adishar93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer. I thrive on crafting high-performance and cost-effective solutions, leveraging my expertise in Java, Go, and microservices architectures.
 
-Here are some ideas to get you started:
+My expertise lies in backend development, particularly in Java and Go. I leverage these skills to design and implement efficient microservices architectures, optimizing resource utilization and inter-service communication. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a strong team player with excellent communication skills and a proven ability to work effectively in a fast-paced environment. I'm always eager to learn and adapt to new technologies.
+
+
+<h4>Reach me at:</h4>
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[LinkedIn]: https://www.linkedin.com/in/adityasharma98/
