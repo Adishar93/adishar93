@@ -8,7 +8,7 @@ I'm a strong team player with excellent communication skills and a proven abilit
 
 
 <h4>Reach me at:</h4>
+<a href="https://www.linkedin.com/in/adityasharma98" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" width="40" height="40"/></a>
+<a href="mailto:adishar93@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/></a>
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-[LinkedIn]: https://www.linkedin.com/in/adityasharma98/
