@@ -1,6 +1,6 @@
 ### Hi! I am Aditya Sharma [he/him],
 
-I'm a passionate software developer. I thrive on crafting high-performance and cost-effective solutions, leveraging my expertise in Java, Go, and microservices architectures.
+I'm a software developer that thrives on crafting high-performance and cost-effective solutions, leveraging my expertise in Java, Go, and microservices architectures.
 
 My expertise lies in backend development, particularly in Java and Go. I leverage these skills to design and implement efficient microservices architectures, optimizing resource utilization and inter-service communication. 
 
