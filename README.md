@@ -1,8 +1,8 @@
 ### Hi! I am Aditya Sharma [he/him],
 
-I'm a software developer that thrives on crafting high-performance and cost-effective solutions, leveraging my expertise in Java, Go, and microservices architectures.
+I’m a Master’s student at USC with a 4.0 GPA, graduating in May 2025. With over three years of experience in Software Engineering, I’ve optimized backend services at Exotel, saving $60,000 annually, and developed scalable APIs at Principal Financial Group.
 
-My expertise lies in backend development, particularly in Java and Go. I leverage these skills to design and implement efficient microservices architectures, optimizing resource utilization and inter-service communication. 
+In addition to my backend work, I’ve developed full-stack projects, such as a Stock Management Platform with a well-designed UI in Angular and dynamic features. I’m also proud of my AI-related achievements, including my Othello bot ranking 1st out of 216 in a competitive AI game, and winning two hackathons, one focused on LLMs
 
 I'm a strong team player with excellent communication skills and a proven ability to work effectively in a fast-paced environment. I'm always eager to learn and adapt to new technologies.
 
