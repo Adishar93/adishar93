@@ -25,8 +25,8 @@ I’m a strong team player with excellent communication skills and a proven abil
 >   <summary><strong>Software Development Engineer 2</strong> (April 2023 – July 2023)</summary><br>
 >   
 >   <ul>
->     <li>Built ‘Hierarchy’, a new feature for Call Dashboard and Call Inbox, effectively enhancing the data-view aspect of customers.</li>
->     <li>Delivered Hierarchy functionality in legacy customer-facing system by enhancing Elastic Search Client Engine.</li>
+>     <li>Developed and launched the "Hierarchy" feature for the Call Dashboard and Call Inbox, significantly improving customer data visualization and user experience.</li>
+>     <li>Integrated Hierarchy functionality into a legacy customer-facing system by optimizing the Elastic Search Client Engine, enhancing data retrieval performance.</li>
 >   </ul>
 > </details>
 > <details>
