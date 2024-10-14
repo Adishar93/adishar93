@@ -61,6 +61,7 @@ I’m a strong team player with excellent communication skills and a proven abil
 - [A RAG-powered Q&A bot for querying large PDFs and YouTube videos, with smart content retrieval and precise answers](https://github.com/Adishar93/Ask-RAG)
 - [AI Agent for Othello Game](https://github.com/Adishar93/AI-Agent-for-Othello-Game)
 - [LLM Call Logs Facts Extractor](https://github.com/Adishar93/llm-call-logs-facts-extractor)
+- [NeoMorpheus](https://github.com/Adishar93/NeoMorpheus-Backend)
 ### Software Engineering
 - Full Stack
   - [StockMate](https://github.com/Adishar93/StockMate)
