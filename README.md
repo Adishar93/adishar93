@@ -58,10 +58,14 @@ I’m a strong team player with excellent communication skills and a proven abil
 
 ## Projects
 ### Artificial Intelligence
-- [NeoMorpheus: Personalized Cybersecurity Learning for All Levels (RAG, LLM Chaining, Image Generation)](https://github.com/Adishar93/NeoMorpheus-Backend)
-- [A RAG-powered Q&A bot for querying large PDFs and YouTube videos, with smart content retrieval and precise answers](https://github.com/Adishar93/Ask-RAG)
-- [AI Agent for Othello Game](https://github.com/Adishar93/AI-Agent-for-Othello-Game)
-- [LLM Call Logs Facts Extractor](https://github.com/Adishar93/llm-call-logs-facts-extractor)
+- [NeoMorpheus](https://github.com/Adishar93/NeoMorpheus-Backend)
+  Personalized Cybersecurity Learning for All Levels (RAG, LLM Chaining, Image Generation)
+- [Ask RAG](https://github.com/Adishar93/Ask-RAG)
+  A RAG-powered Q&A bot for querying large PDFs and YouTube videos, with smart content retrieval and precise answers
+- [Othello AI](https://github.com/Adishar93/AI-Agent-for-Othello-Game)
+  AI Agent for Othello Game
+- [Call Logs QnA](https://github.com/Adishar93/llm-call-logs-facts-extractor)
+  An LLM based Call Logs QnA ChatBot
 ### Software Engineering
 - Full Stack
   - [StockMate](https://github.com/Adishar93/StockMate)
