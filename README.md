@@ -60,6 +60,8 @@ I’m a strong team player with excellent communication skills and a proven abil
 ### Artificial Intelligence
 - [NeoMorpheus](https://github.com/Adishar93/NeoMorpheus-Backend)
   A project that enables Personalized Cybersecurity Learning for all levels (RAG, LLM Chaining, Image Generation).
+- [ArtWave](https://github.com/Adishar93/ArtWaveDainPlugin)
+  A DAIN service that suggests music based on provided artwork using the power of LLMs, Vector DB and Deep Learning.
 - [Ask RAG](https://github.com/Adishar93/Ask-RAG)
   A RAG-powered Q&A bot for querying large PDFs and YouTube videos, with smart content retrieval and precise answers.
 - [Othello AI](https://github.com/Adishar93/AI-Agent-for-Othello-Game)
