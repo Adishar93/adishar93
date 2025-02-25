@@ -22,7 +22,7 @@ I’m a strong team player with excellent communication skills and a proven abil
 ### InternOptima
 
 > <details>
->   <summary><strong>Software Engineer Intern</strong> (May 2024 – August 2024)</summary><br>
+>   <summary><strong>Software Developer</strong> (May 2024 – August 2024)</summary><br>
 > 
 >   <ul>
 >     <li>Designed and developed the API backend in Spring Boot and scraper backend in Python, deployed on AWS infrastructure, forming the foundation of InternOptima’s core product.</li>
