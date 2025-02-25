@@ -7,6 +7,18 @@ I’m a strong team player with excellent communication skills and a proven abil
 [Link to Resume](https://drive.google.com/file/d/1ZmFT9e2rP5AMKozCC02e2gQp-mwjZ_wQ/view?usp=sharing)
 
 ## Work Experience
+
+### Medtronic
+
+> <details>
+>   <summary><strong>Software Development Engineer Co-op</strong> (January 2025 – Present)</summary><br>
+> 
+>   <ul>
+>     <li>Developing cross-platform mobile applications using Flutter, Android SDK (Java/Kotlin), and iOS (Swift), ensuring high standards of safety and reliability.</li>
+>     <li>Built proof-of-concept (POC) applications demonstrating the feasibility of technologies, including Bluetooth and NFC-based device connectivity for secure data transfer and automation.</li>
+>   </ul>
+> </details>
+
 ### InternOptima
 
 > <details>
